@@ -23,7 +23,7 @@
 ## 🌐 Live Demo
 
 🎉 **Experience the Project Live Here:**  
-🔗 [🌍 Visit the Live Website →](ncalculator.netlify.app)
+🔗 [🌍 Visit the Live Website →](ncalculatorproject.netlify.app)
 
 ---
 
